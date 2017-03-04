@@ -1,21 +1,22 @@
 # List of Ideas.
+## Rejected
+- <strike>Pokemon Game - API  - http://pokeapi.co/</strike>
 
-- ~~Pokemon Game - API  - http://pokeapi.co/ ~~ 
+-  <strike>Food Recipies - API - https://developer.yummly.com/! <strike>/
 
-- ~~ Food Recipies - API - https://developer.yummly.com/!~~
+- <strike> Inspirational Quotes - API- https://quotesondesign.com/api-v4-0/ <strike>
 
-- ~~ Inspirational Quotes - API- https://quotesondesign.com/api-v4-0/~~
+-  <strike>Rural Management Plan - API- https://data.gov.in/ <strike>
 
-- ~~ Rural Management Plan - API- https://data.gov.in/~~
+-  <strike>Target an Organisation -> Search for an API, Permissions <strike>
 
-- ~~ Target an Organisation -> Search for an API, Permissions~~
+-  <strike>GSOC DATA with filter -> No API available, needs scapping <strike>
 
-- ~~ GSOC DATA with filter -> No API available, needs scapping~~
+-  <strike>Codechef APP -> No API availbale. <strike>
 
-- ~~ Codechef APP -> No API availbale.~~
+- <strike> Sports APP -> API- sportsdb > need to work on it. <strike>
 
-- ~~ Sports APP -> API- sportsdb > need to work on it.~~
+-  <strike> Dictionary game based on API <strike>
 
-- ~~ Dictionary game based on API ~~
-
+## Accepted
 - [X] Education - Quiz game. 
